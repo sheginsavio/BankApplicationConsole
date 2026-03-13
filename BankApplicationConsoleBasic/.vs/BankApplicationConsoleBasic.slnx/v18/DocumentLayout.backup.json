@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384E509B-6A76-41EF-B8F2-4F32ED40FF65}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|c:\\shegin savio s s\\visual studio community\\sample\\bankapplicationconsolebasic\\bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384E509B-6A76-41EF-B8F2-4F32ED40FF65}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|solutionrelative:bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
+              "RelativeDocumentMoniker": "BankApplicationConsoleBasic\\Program.cs",
+              "ToolTip": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
+              "RelativeToolTip": "BankApplicationConsoleBasic\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:47:27.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

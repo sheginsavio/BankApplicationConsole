@@ -1,0 +1,14 @@
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\bin\Debug\net10.0\BankApplicationConsoleBasic.exe
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\bin\Debug\net10.0\BankApplicationConsoleBasic.deps.json
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\bin\Debug\net10.0\BankApplicationConsoleBasic.runtimeconfig.json
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\bin\Debug\net10.0\BankApplicationConsoleBasic.dll
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\bin\Debug\net10.0\BankApplicationConsoleBasic.pdb
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.AssemblyInfoInputs.cache
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.AssemblyInfo.cs
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.csproj.CoreCompileInputs.cache
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.dll
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\refint\BankApplicationConsoleBasic.dll
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.pdb
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\BankApplicationConsoleBasic.genruntimeconfig.cache
+C:\SHEGIN SAVIO S S\Visual Studio Community\Sample\BankApplicationConsoleBasic\BankApplicationConsoleBasic\obj\Debug\net10.0\ref\BankApplicationConsoleBasic.dll

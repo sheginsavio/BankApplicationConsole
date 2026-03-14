@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{384E509B-6A76-41EF-B8F2-4F32ED40FF65}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|c:\\shegin savio s s\\visual studio community\\sample\\bankapplicationconsolebasic\\bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384E509B-6A76-41EF-B8F2-4F32ED40FF65}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|solutionrelative:bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D946AFF3-41C6-9570-045D-41FF62EE931B}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|c:\\shegin savio s s\\visual studio community\\sample\\bankapplicationconsolebasic\\bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D946AFF3-41C6-9570-045D-41FF62EE931B}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|solutionrelative:bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "BankApplicationConsoleBasic\\Program.cs",
               "ToolTip": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
               "RelativeToolTip": "BankApplicationConsoleBasic\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwAwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T17:47:27.836Z",
               "EditorCaption": ""

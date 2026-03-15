@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj": {}
+    "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj": {}
   },
   "projects": {
-    "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj": {
+    "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj",
+        "projectUniqueName": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj",
         "projectName": "BankApplicationConsoleBasic",
-        "projectPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj",
+        "projectPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj",
         "packagesPath": "C:\\Users\\2483421\\.nuget\\packages\\",
-        "outputPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\obj\\",
+        "outputPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

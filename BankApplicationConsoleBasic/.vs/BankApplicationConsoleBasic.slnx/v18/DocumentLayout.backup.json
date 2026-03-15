@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\",
+  "WorkspaceRootPath": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D946AFF3-41C6-9570-045D-41FF62EE931B}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|c:\\shegin savio s s\\visual studio community\\sample\\bankapplicationconsolebasic\\bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D946AFF3-41C6-9570-045D-41FF62EE931B}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|c:\\shegin savio s s\\visual studio community\\project\\bankapplicationconsolebasic\\bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D946AFF3-41C6-9570-045D-41FF62EE931B}|BankApplicationConsoleBasic\\BankApplicationConsoleBasic.csproj|solutionrelative:bankapplicationconsolebasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
+              "DocumentMoniker": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
               "RelativeDocumentMoniker": "BankApplicationConsoleBasic\\Program.cs",
-              "ToolTip": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Sample\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
+              "ToolTip": "C:\\SHEGIN SAVIO S S\\Visual Studio Community\\Project\\BankApplicationConsoleBasic\\BankApplicationConsoleBasic\\Program.cs",
               "RelativeToolTip": "BankApplicationConsoleBasic\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwJYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T17:47:27.836Z",
               "EditorCaption": ""
